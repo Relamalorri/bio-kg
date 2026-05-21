@@ -5,7 +5,7 @@ complex relationships among SNPs, genes, biomarkers, diseases, and drugs — enh
 Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
 
 > Research Internship — KAUST Smart Health Initiative (SSI Program)  
-> Supervised by Prof. Xin Gao and Dr.Sakhaa AlSaedi | King Abdullah University of Science and Technology
+> Supervised by Prof. Xin Gao | King Abdullah University of Science and Technology
 
 🏆 Awarded 3rd Place — Best Project & ePoster Design among all SSI interns
 
@@ -42,25 +42,22 @@ BioMed-KG addresses this by building a unified knowledge graph that:
 
 ---
 
+## Research Status
+
+This research is currently under review and has not yet been publicly published.
+Full code, datasets, and methodology will be made available upon official release
+of the research paper.
+
+In the meantime, the research poster presented at the KAUST SSI Program is
+available in the `poster/` folder.
+
+---
+
 ## Repository Contents
 
 | Folder | Contents |
 |---|---|
-| `demo/` | Simplified demo pipeline illustrating the KG construction approach |
 | `poster/` | Research ePoster presented at KAUST SSI Program |
-
-> Note: Full research code and datasets are not published pending official research release.
-
----
-
-## Demo Pipeline
-
-The demo in `demo/` illustrates the core concept:
-
-1. Data ingestion and preprocessing
-2. Entity extraction and annotation
-3. Knowledge graph construction
-4. RAG-based querying with LLM integration
 
 ---
 

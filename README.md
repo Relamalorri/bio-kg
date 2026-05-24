@@ -5,7 +5,7 @@ complex relationships among SNPs, genes, biomarkers, diseases, and drugs — enh
 Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
 
 > Research Internship — KAUST Smart Health Initiative (SSI Program)  
-> Supervised by Prof. Xin Gao | King Abdullah University of Science and Technology
+> Supervised by Prof. Xin Gao and Dr.Sakhaa AlSaedi| King Abdullah University of Science and Technology
 
 🏆 Awarded 3rd Place — Best Project & ePoster Design among all SSI interns
 
